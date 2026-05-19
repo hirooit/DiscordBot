@@ -1,0 +1,19 @@
+{
+  "name": "voicememe",
+  "version": "1.0.0",
+  "description": "音声認識でミーム再生",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hiro",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.19.0",
+    "@snazzah/davey": "^0.1.9",
+    "discord.js": "^14.25.1",
+    "play-dl": "^1.9.7",
+    "spotify-url-info": "^3.2.18"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "meme": {
+    "description": "オイラがいくしか、ねぇな",
+    "file": "meme.mp3"
+  },
+  "drive": {
+    "description": "ハラキリDRIVEの音",
+    "file": "drive.mp3"
+  },
+  "misae": {
+    "description": "みさえーーー",
+    "file": "misae.mp3"
+  },
+  "otome": {
+    "description": "戦国乙女脳汁音",
+    "file": "otome.mp3"
+  },
+  "shitenno": {
+    "description": "何を四天王！？",
+    "file": "shitenno.mp3"
+  },
+  "wtf": {
+    "description": "WTF!?",
+    "file": "wtf.mp3"
+  },
+  "yarira": {
+    "description": "横揺れ界隈の音",
+    "file": "yarira.mp3"
+  },
+  "pekora": {
+    "description": "ペコーラの笑い声",
+    "file": "pekora.mp3"
+  },
+  "taigainisay": {
+    "description": "ふざけんのも大概にSayよ！！",
+    "file": "taigainisay.mp3"
+  },
+  "jojo": {
+    "description": "ジョジョのbgm",
+    "file": "jojo.mp3"
+  }
+}
